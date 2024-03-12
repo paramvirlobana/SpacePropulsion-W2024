@@ -2,6 +2,7 @@
 #include <vector>
 #include <iostream>
 #include <cmath>
+#include "infomatics.h"
 
 
 class GravitySource
@@ -127,6 +128,7 @@ public:
 
 int main()
 {
+
 	sf::RenderWindow window(sf::VideoMode(1600, 1000), "Your Satellite");
 	window.setFramerateLimit(120);
 	sf::View view = window.getView();
@@ -138,6 +140,12 @@ int main()
 	std::vector<Particle> particles;
 	particles.push_back(Particle(600, 800, 4, 0));
 	particles.push_back(Particle(500, 800, 4, 0));
+
+
+	sf::Font retrofont;
+	retrofont.loadFromFile("retro_gaming.ttf");
+	Textbox textbox1(15, sf::Color::White, true);
+	textbox1.setFont(retrofont); textbox1.setPosition({100, 100});
 
 	while (window.isOpen())
 	{
@@ -162,8 +170,8 @@ int main()
 				particles[1].vel.x -= 0.1f;
 			else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Right))
 				particles[1].vel.x += 0.1f;
+			
 			*/
-		
 
 			if (sf::Keyboard::isKeyPressed(sf::Keyboard::R))
 			{
@@ -172,7 +180,7 @@ int main()
 				//particles[1].pos = sf::Vector2f(500, 800);
 				//particles[1].vel = sf::Vector2f(4, 0);
 			}
-
+			
 			// Zoom in
 			if (event.type == sf::Event::MouseWheelScrolled && event.mouseWheelScroll.wheel == sf::Mouse::VerticalWheel)
 			{
@@ -185,6 +193,10 @@ int main()
 
 					window.setView(view);
 				}
+			}
+			
+			if (sf::Event::TextEntered) {
+				textbox1.typedOn(event);
 			}
 
 		}
@@ -208,7 +220,9 @@ int main()
 		{
 			particle.render(window);
 		}
+		textbox1.drawTo(window);
 		window.display();
+		
 	}
 
 	return 0;
