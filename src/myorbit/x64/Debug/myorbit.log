@@ -1,0 +1,88 @@
+﻿  main.cpp
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(152,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(153,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(156,47): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(156,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(167,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(222,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(223,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(226,165): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(227,153): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(228,152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(231,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(231,87): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(231,87): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(231,87): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(231,87): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(236,93): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(236,93): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(236,93): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(236,93): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(236,93): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(238,157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(239,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(240,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(243,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(243,90): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(243,90): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(243,90): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(243,90): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(247,92): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(247,92): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(247,92): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(247,92): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(247,92): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(251,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(251,80): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(251,80): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(251,80): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(251,80): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(251,111): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(251,106): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(265,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(269,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,173): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,173): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,173): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,173): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,173): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,91): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,91): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,91): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(336,91): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(364,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(414,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(414,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(418,49): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(420,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(420,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,56): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,56): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,56): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,56): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,42): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,42): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,42): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(424,42): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(425,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(425,53): warning C4244:         with
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(425,53): warning C4244:         [
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(425,53): warning C4244:             T=float
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(425,53): warning C4244:         ]
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(449,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(455,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(472,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(478,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(484,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(490,41): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(496,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(497,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(502,27): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(507,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(513,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(532,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\dev\SpacePropulsion-W2024\myorbit\main.cpp(538,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  myorbit.vcxproj -> D:\dev\SpacePropulsion-W2024\myorbit\x64\Debug\myorbit.exe
